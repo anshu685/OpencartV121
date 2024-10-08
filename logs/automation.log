@@ -1,0 +1,19 @@
+21:10:25.106 [main] INFO  testCases.LoginTest - ******* completed Login Method ********
+20:45:21.093 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+20:45:21.249 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+20:45:22.205 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+20:45:22.206 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+20:45:23.848 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+20:45:23.909 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+20:45:29.365 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+20:45:29.857 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********
+20:45:30.933 [main] INFO  testCases.LoginTest - ******* completed Login Method ********
+21:09:24.795 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+21:09:24.941 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+21:09:25.453 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+21:09:25.454 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+21:09:27.174 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+21:09:27.229 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+21:09:32.149 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+21:09:32.809 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********
+21:09:34.016 [main] INFO  testCases.LoginTest - ******* completed Login Method ********

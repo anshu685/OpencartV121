@@ -1,0 +1,43 @@
+13:53:58.116 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+13:53:58.218 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+13:54:00.600 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+13:54:01.174 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********
+13:54:02.290 [main] INFO  testCases.LoginTest - ******* completed Login Method ********
+13:54:51.392 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+13:54:51.718 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+13:54:52.540 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+13:54:52.540 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+13:54:54.731 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+13:54:54.830 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+13:54:56.965 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+13:54:57.676 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********
+13:54:58.855 [main] INFO  testCases.LoginTest - ******* completed Login Method ********
+13:54:59.881 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+13:54:59.910 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+13:57:04.764 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+13:57:04.917 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+13:57:05.501 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+13:57:05.502 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+13:57:07.847 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+13:57:07.935 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+13:57:10.072 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+13:57:10.621 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********
+13:57:11.743 [main] INFO  testCases.LoginTest - ******* completed Login Method ********
+13:57:12.710 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+13:57:12.738 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+14:03:40.642 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:03:40.919 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:03:41.604 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:03:41.604 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:03:43.223 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:03:43.319 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:11:15.028 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:11:15.062 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+21:10:14.895 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+21:10:15.049 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+21:10:15.635 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+21:10:15.637 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+21:10:17.850 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+21:10:17.907 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+21:10:22.796 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+21:10:23.314 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********

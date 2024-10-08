@@ -1,0 +1,42 @@
+21:01:53.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:53.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.039 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:53.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:53.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:53.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.130 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:53.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:53.148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:53.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:53.229 [main] INFO  testCases.LoginDDTTest - ****** Started LoginDDT started ********
+21:01:53.988 [main] INFO  testCases.LoginDDTTest - ******** Entering the Valid Data to login to the Account ********
+21:01:56.049 [main] INFO  testCases.LoginDDTTest - ****** Finished LoginDDT started ********
+21:01:56.054 [main] INFO  testCases.LoginDDTTest - ****** Started LoginDDT started ********
+21:01:56.565 [main] INFO  testCases.LoginDDTTest - ******** Entering the Valid Data to login to the Account ********
+21:03:37.514 [main] INFO  testCases.LoginDDTTest - ****** Finished LoginDDT started ********
+21:03:37.515 [main] INFO  testCases.LoginDDTTest - ****** Started LoginDDT started ********
+21:03:38.069 [main] INFO  testCases.LoginDDTTest - ******** Entering the Valid Data to login to the Account ********
+21:05:19.135 [main] INFO  testCases.LoginDDTTest - ****** Finished LoginDDT started ********
+21:05:19.138 [main] INFO  testCases.LoginDDTTest - ****** Started LoginDDT started ********
+21:05:20.322 [main] INFO  testCases.LoginDDTTest - ******** Entering the Valid Data to login to the Account ********
+21:07:01.399 [main] INFO  testCases.LoginDDTTest - ****** Finished LoginDDT started ********
+21:21:39.168 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+21:21:39.367 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+21:21:40.267 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+21:21:40.269 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+21:21:41.998 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+21:21:42.071 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+21:21:46.461 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************
+21:21:47.009 [main] INFO  testCases.LoginTest - ******** Entering the Valid Data to login to the Account ********
+21:21:48.156 [main] INFO  testCases.LoginTest - ******* completed Login Method ********
+21:22:58.527 [main] INFO  testCases.LoginTest - ************* Started verifyLogin method **********************

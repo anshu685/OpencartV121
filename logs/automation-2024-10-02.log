@@ -1,0 +1,41 @@
+14:29:44.855 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:29:46.513 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:29:46.562 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:30:23.331 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:30:23.544 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:30:24.198 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:30:24.198 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:30:25.806 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:30:25.874 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:34:26.121 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:34:26.268 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:34:26.980 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:34:26.980 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:34:28.912 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:34:29.000 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:34:33.328 [main] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:34:33.464 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:34:34.186 [main] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:34:34.187 [main] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:34:35.873 [main] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:34:35.927 [main] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:35:05.653 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:35:05.973 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:35:06.020 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:35:06.297 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:35:06.809 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:35:06.809 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:35:06.930 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:35:06.930 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:35:08.893 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:35:08.952 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:35:09.068 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Validating expected message *************
+14:35:09.151 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ******************** Finished test case AccountRegistrationTest ****************
+14:35:34.425 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:35:34.508 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Starting the AccountRegistrationTest *************
+14:35:34.680 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:35:34.728 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Clicked on MyAccount  *************
+14:35:35.334 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:35:35.335 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
+14:35:35.593 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Clicked on Register *************
+14:35:35.593 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ********* Providing Details for registration *************
